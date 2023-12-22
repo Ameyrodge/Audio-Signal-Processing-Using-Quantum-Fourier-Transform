@@ -3,7 +3,7 @@ Quantum Fourier Transform (QFT) plays a crucial role in Quantum Computing, servi
 
 
 # Dependencies
-1. Qiskit Version: 0.45.1
+1. ```Qiskit Version: 0.45.1```
 2. ```QuantumCircuit```
 3. ```QuantumRegister```
 4. ```assemble```
